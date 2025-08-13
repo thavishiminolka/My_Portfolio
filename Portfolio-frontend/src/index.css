@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222.2 84% 4.9%; /* #0A192F - very dark blue */
+    --foreground: 210 40% 98%; /* #CCD6F6 - light gray */
+    --card: 222.2 47.4% 11.2%; /* #112240 - slightly lighter dark blue */
+    --card-foreground: 210 40% 98%;
+    --primary: 174 76% 60%; /* #64FFDA - accent cyan/teal */
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 217.2 91.2% 59.8%;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}

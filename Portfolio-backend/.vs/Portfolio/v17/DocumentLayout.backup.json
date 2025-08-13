@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\controllers\\project_technologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\project_technologiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\models\\project_technologies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\models\\project_technologies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|c:\\users\\thavishi minolka\\desktop\\portfolio backup\\portfolio-backend\\portfolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8743EEA1-7918-4DF5-B425-5440022876A6}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Profile.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Profile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:02:59.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:52:19.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\appsettings.json",
+              "RelativeToolTip": "Portfolio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T21:04:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Projects.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Projects.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Projects.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:37:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAANECAAAAAAAAAAAqwOcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:36:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Portfolio\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Portfolio\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T14:49:55.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Portfolio\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:14:28.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Program.cs",
+              "RelativeToolTip": "Portfolio\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T17:38:07.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Contact.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T21:02:09.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T21:04:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project_technologies.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Project_technologies.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Project_technologies.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Project_technologies.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Project_technologies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:14:04.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Blogs.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Blogs.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\Blogs.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Models\\Blogs.cs",
+              "RelativeToolTip": "Portfolio\\Models\\Blogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:46:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAqwG4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:48:10.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project_technologiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\Project_technologiesController.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Controllers\\Project_technologiesController.cs",
+              "ToolTip": "C:\\Users\\Thavishi Minolka\\Desktop\\portfolio backup\\Portfolio-backend\\Portfolio\\Controllers\\Project_technologiesController.cs",
+              "RelativeToolTip": "Portfolio\\Controllers\\Project_technologiesController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:48:32.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
